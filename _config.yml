@@ -1,1 +1,15 @@
-theme: jekyll-theme-minimal
+# Site Settings
+title: Andrew Crossman
+email: crossman@udel.edu
+description: >
+  Mathematician - Physicist - Computer Scientist
+baseurl: ""
+url: "https://andrewcrossman.github.io/test"
+github_username:  Andrew Crossman
+linkedin_username: Andrew Crossman
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
