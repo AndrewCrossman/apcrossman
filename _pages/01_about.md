@@ -5,11 +5,8 @@ permalink: /about/
 ---
 Hi, my name is Andrew Crossman and I am an experimental Physicist with a focus in Condesned Matter. 
 
-[^1]: Some footnote text.
 
-Tables can look like this:
-
-Table: Education, Degree, Date
+Table: Education, Degree, Date.
 Education              Degree                        Date      
 ---------------------- ----------------------------  ------------  
 University of Delaware B.Sc. with Honors in Physics  2015-2019
