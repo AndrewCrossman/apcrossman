@@ -22,8 +22,7 @@ I graduated with an Honors Bachelor's Degree of Science in Physics with Minors i
 After taking a gap year, I returned to the University of Delaware to continue my education in Physics. Currently, I am three years in to earning my Ph.D in Physics with a focus in Condensed Matter under my advisors [Karl Unruh](https://web.physics.udel.edu/people/kmu) and [Matthew DeCamp](https://web.physics.udel.edu/people/mdecamp). As a graduate student, I work as both an Assistant Proffesor and Researcher. My responsibilities as an Assistant Proffesor include leading discussions and/or labs for the introductory level undergraduate students as well as developing the courses and lesson plans. On the Researcher side of things, my responsibilites revolve around developing and performing computational and physical experiments. This includes everything from writing code in Fortran 95 and Python, to chemically synthesizing samples, to operating x-ray diffraction machines - just to name a few things. My current research work is on maturing science's understanding of diffusion on the nanoscale. This is important work because the performance of a huge variety of catalytic, electronic, magnetic, and optical products and devices depend on maintaining their desirable properties throughout the manufacturing process (often at elevated temperatures) and subsequent use over extended periods of time. Some of this work can be found on my [GitHub page](https://github.com/AndrewCrossman).
 
 ## Interests
-* Dance
-* Physics
-* Economics
-* Strategy Games
+* Computer Hardware - There are few moments more exciting than rigging a dozen very expensive and very delicate computer components together and finding out that everything is operating according to plan. A lot of care and effort has to go into ensuring that all the different parts will function and fit together. You have to check the brand, the manufacturer, the part number, etc. against every other piece or risk losing a lot of money when something inevitably goes wrong. But, the low hum of the tower fans accompanied by a crisp clear image on the monitor is super worth it. 
+* Stock Analysis - 
+* Strategy Games - 
 
