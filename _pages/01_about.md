@@ -7,12 +7,12 @@ Hi, my name is Andrew Crossman and I am an experimental Physicist with a focus i
 
 
 Table: Education, Degree, Date.
-Education              |Degree                        |Date        |
----------------------- |----------------------------  |------------|  
-University of Delaware |B.Sc. with Honors in Physics  |2015-2019   |
-University of Delaware |Minor in Mathematics          |2015-2019   |
-University of Delaware |Minor in Computer Science     |2015-2019   |
-University of Delaware |Ph.D in Physics               |2020-PRESENT|
+|Education              |Degree                        |Date        |
+|---------------------- |----------------------------  |------------|  
+|University of Delaware |B.Sc. with Honors in Physics  |2015-2019   |
+|University of Delaware |Minor in Mathematics          |2015-2019   |
+|University of Delaware |Minor in Computer Science     |2015-2019   |
+|University of Delaware |Ph.D in Physics               |2020-PRESENT|
 
 Table: Education, Degree, Date
 
