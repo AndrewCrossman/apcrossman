@@ -23,6 +23,5 @@ After taking a gap year, I returned to the University of Delaware to continue my
 
 ## Interests
 * Computer Hardware - There are few moments more exciting than rigging a dozen very expensive and very delicate computer components together and finding out that everything is operating according to plan. A lot of care and effort has to go into ensuring that all the different parts will function and fit together. You have to check the brand, the manufacturer, the part number, etc. against every other piece or risk losing a lot of money when something inevitably goes wrong. But, the low hum of the tower fans accompanied by a crisp clear image on the monitor is super worth it. 
-* Stock Analysis - 
-* Strategy Games - 
-
+* Stock Analysis - Everyone likes making money but very few apply highly technical approaches through the stock market. Using python, I have developed [code](https://github.com/AndrewCrossman/Other) that considers a security’s Bollinger Bands, RSI, MACD and Signal, EMAs, and SMAs in order to make informed purchasing decisions. My favorites securities are MSFT, TSM, and NVDA.
+* Dancing - When I am not exercising my mind, I like to exercise my body. Specifically, through dance. In the past I worked a lot on BHopping but now I prefer more relaxing dances like Cumbia, Bachata, and Merengue.
